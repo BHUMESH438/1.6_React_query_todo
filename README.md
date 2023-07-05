@@ -6,7 +6,7 @@ Open server directory.
 
 - run "npm install" and "npm start"
 
-#### Node Course
+#### think about it.....
 
 [Node write files why we convert input object to string using jsonstringify? while writeing the data in local storange? in this project you can face this doubt in localdataserver file](https://chat.openai.com/share/9855e377-b682-424f-b00c-88b10d553c4a)
 
